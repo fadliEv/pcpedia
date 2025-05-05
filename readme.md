@@ -1,6 +1,6 @@
 # 📦 PCPedia - Computer & Laptop Hardware Marketplace
 
-![review-firs-screen](image.png)
+<img src="image.png" width=40% height=40%>
 
 **PCPedia** is a mobile marketplace application built with React Native and Expo, designed to sell various computer and laptop hardware components. The app offers a modern, lightweight, and responsive interface, delivering a user experience similar to popular marketplace platforms.
 
